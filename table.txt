@@ -1,0 +1,11 @@
+create table account1(
+account_num int(11),
+pass1 varchar(20),
+pass2 varchar(20),
+name varchar(20),
+address varchar(20),
+phone_num int(11),
+account_type varchar(20),
+email varchar(20),
+bal int
+)
